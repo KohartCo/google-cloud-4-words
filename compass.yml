@@ -1,0 +1,18 @@
+name: google-cloud-4-words
+id: ari:cloud:compass:4ae98d0c-08f4-426b-ab18-3581a764ec4d:component/186ee38f-818e-4f8a-a457-99b094f765ca/0285fed0-0e39-4237-aaa8-d66b208d0f06
+description: The Google Cloud Developer's Cheat Sheet
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/KohartCo/google-cloud-4-words
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
